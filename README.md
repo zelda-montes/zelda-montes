@@ -5,7 +5,7 @@ I'm a first-generation, non-binary Latinx software engineer currently in my seni
 <br>
 <br>
 
-✨ I am currently an Apple Data Scientist intern 
+✨ I am an incoming Software Engineer @ Google NYC
 
 🔭 I am a 3x Google intern and 1x Apple intern
 
